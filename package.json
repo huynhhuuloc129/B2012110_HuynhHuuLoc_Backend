@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "kiboshop-backend",
+  "name": "quanlydathang-backend",
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/huynhhuuloc129/kiboShop-Backend/issues"
   },
-  "homepage": "https://github.com/huynhhuuloc129/kiboShop-Backend#readme"
+  "homepage": "https://github.com/huynhhuuloc129/e-Backend#readme"
 }
